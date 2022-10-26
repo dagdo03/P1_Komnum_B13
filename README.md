@@ -1,7 +1,7 @@
 Kelompok 13 :
 1. Tengku Fredly Reinaldo (5025201198)
 2. Ihsan Widagdo (5025211231)
-3. Lihardo Marsoon Purba (5025211238)
+3. Lihardo Marson Purba (5025211238)
 
 Program ini dibuat dengan tujuan mempresentasikan iterasi terhadap titik ketiga yang dihitung dengan menggunakan metode bolzano demi mendapatkan akar suatu persamaan                                     polinomial.
 
