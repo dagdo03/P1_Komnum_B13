@@ -32,7 +32,7 @@ Penjelasan :
    dengan data yang diperoleh dari code di bawah ini dengan setiap perhitungan yang disimpan di variabel yang dievaluasi di setiap iterasinya.\
 ![image](https://user-images.githubusercontent.com/95538168/198043499-e76b8ec5-f44c-44ac-81b7-7b422fd8de80.png)\
    outputnya seperti di bawah ini :\
-  ![image](https://user-images.githubusercontent.com/95538168/198042583-d19502ec-bb11-4501-b441-10bdc60a8a7b.png)\
+  ![image](https://user-images.githubusercontent.com/95538168/198042583-d19502ec-bb11-4501-b441-10bdc60a8a7b.png)
    
 
 
